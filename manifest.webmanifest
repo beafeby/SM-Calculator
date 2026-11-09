@@ -1,6 +1,6 @@
 {
-  "name": "Crew Sales Calculator",
-  "short_name": "Crew Sales",
+  "name": "SM Calculator",
+  "short_name": "SM Calcu",
   "description": "Calculate Total GC, Sales, Labor percentage, and GCPCH.",
   "start_url": "./",
   "scope": "./",
