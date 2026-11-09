@@ -1,4 +1,4 @@
-# Crew Sales Calculator — Installable PWA
+# SM Calculator — Installable PWA
 
 Installable mobile calculator with offline caching after the first successful online visit.
 
